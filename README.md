@@ -1,6 +1,6 @@
 # WWDead Community
-Welcome to a community GitHub for Worldwide Dead — 
-a free multiplayer web-based zombie apocalypse game.
+Welcome to a community GitHub for Worldwide Dead 
+(a free multiplayer web-based zombie apocalypse game)
 
 🧟 Play: https://wwdead.com
 
