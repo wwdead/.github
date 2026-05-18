@@ -13,9 +13,9 @@ You don't need to know how to code to help out. Here's what you can do:
 
 | Contribution type | Where to do it |
 |---|---|
-| Suggest a script or tool idea | Discord `https://discord.com/channels/1420504434227806350/1476815676315533323)` or GitHub Discussions |
+| Suggest a script or tool idea | Discord https://discord.com/channels/1420504434227806350/1476815676315533323 or GitHub Discussions |
 | Report a bug | Report it on Discord channel specific to the script or GitHub Issues |
-| Contribute map data or game info | Discord `https://discord.com/channels/1420504434227806350/1476815676315533323)` or GitHub Issues |
+| Contribute map data or game info | Discord https://discord.com/channels/1420504434227806350/1476815676315533323 or GitHub Issues |
 | Improve documentation | GitHub Pull Request |
 | Write or fix a script | GitHub Pull Request |
 | Review someone else's PR | GitHub Pull Request |
