@@ -128,5 +128,5 @@ named. No contribution goes unrecognized.
 - Post in the **Q&A** category on [GitHub Discussions](../../discussions)
 - Ask  on the [Discord server](https://discord.gg/fwapYnMGFw)
 
-We were all new once — no question is too basic.
+no question is too basic.
 
