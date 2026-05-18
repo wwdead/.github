@@ -52,4 +52,5 @@ you by name when they do.
 
 ### Setting Up
 1. Fork the repo you want to work on
-2. Clone your fork:
+2. Clone your fork: `git clone https://github.com/YOUR-USERNAME/REPO-NAME`
+3. Create a branch for your work:
